@@ -1,6 +1,6 @@
 #include "dep3/dep3.h"
 
 int main() {
-	wrong_new_api_dep3(2, 3);
+	wrong_new_api_dep3(2, 4);
     return 0;
 }
