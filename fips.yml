@@ -1,0 +1,5 @@
+---
+exports:
+    header-dirs: [ src ]
+    modules:
+        dep3: src/dep3
