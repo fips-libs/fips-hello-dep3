@@ -1,1 +1,1 @@
-extern bool wrong_new_api_dep3(int major, int minor);
+extern bool correct_old_api_dep3(int major);
