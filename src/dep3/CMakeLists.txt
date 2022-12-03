@@ -1,3 +1,3 @@
-fips_begin_module(dep3)
+fips_begin_lib(dep3)
     fips_files(dep3.cc dep3.h)
-fips_end_module()
+fips_end_lib()
